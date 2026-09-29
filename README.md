@@ -2,7 +2,7 @@
 
 Code for GUIDE-FBO, nine comparison methods, and three real-world federated Bayesian optimization experiments.
 
-**Paper:** The arXiv link will be added after the preprint is posted.
+**Paper:** https://doi.org/10.48550/arXiv.2609.35038
 
 GUIDE-FBO fits local Gaussian-process models at participating agents, extracts beliefs about promising locations, and uses server-side aggregation to guide subsequent evaluations. This repository contains the synthetic benchmark implementation, sensitivity and ablation experiments, and runners for FedHPO-Bench GCN/FedAvg, UCI-HAR, and Landmine.
 
