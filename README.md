@@ -134,4 +134,4 @@ This source release does not contain precomputed result CSVs. Run the correspond
 
 ## Citation
 
-The arXiv link and citation entry will be added when the preprint is available. Paper title: *GUIDE-FBO: Guidance via Uncertainty Intervention and Distributional Exchange for Federated Bayesian Optimization*.
+Paper title: *[GUIDE-FBO: Guidance via Uncertainty Intervention and Distributional Exchange for Federated Bayesian Optimization](https://arxiv.org/abs/2609.35038)*.
